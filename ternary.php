@@ -3,5 +3,5 @@
 
 <?php
 $x = 0;
-echo(" x > 0 ")?"the number is positive":"the number is negatve";
+echo(" x > 0 ") ? "the number is positive":"the number is negatve";
 ?>

@@ -6,14 +6,14 @@ $a === $b	                    Identity — true if both arrays have the same key
 $a != $b or $a <> $b	Inequality — true if arrays are not equal
 $a !== $b	                    Non-identity — true if arrays are not identical -->
 
-<?php
-$x = array("k" => "Car", "l" => "Bike");
-$y = array("a" => "Train", "b" => "Plain");
+          <?php
+          $x = array("k" => "Car", "l" => "Bike");
+          $y = array("a" => "Train", "b" => "Plain");
 
-var_dump($x + $y);
-var_dump($x == $y);
-var_dump($x != $y);
-var_dump($x <> $y);
-var_dump($x === $y);
-var_dump($x !== $y);
-?>
+          var_dump($x + $y);
+          var_dump($x == $y);
+          var_dump($x != $y);
+          var_dump($x <> $y);
+          var_dump($x === $y);
+          var_dump($x !== $y);
+          ?>
