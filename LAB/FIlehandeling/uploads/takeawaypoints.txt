@@ -1,0 +1,72 @@
+backend flow
+
+Schema
+
+Model
+
+Controller
+
+Route
+
+index
+
+
+frontend            Backend             Database
+
+Request             response            save data
+(data phathauxa)
+hit api
+
+
+CRUD
+
+C --->     Create       "post"
+R --->     Read         "Get"            two type read all and read
+U --->     Update       "patch"
+D --->     Delete       "Delete"
+
+
+
+
+paramater two
+
+rout paramater
+query parameter
+
+
+
+
+login management
+
+register
+login
+my-profile
+update-profile
+update-password
+forget password
+forget password
+reset password
+log out
+
+
+
+
+
+http response status code
+
+Information Response (100-199)
+Successful Response (200-299)
+Redirection Response (300-399)
+Client error Response (400-499)
+Server error Response (500 - 599)
+
+200 - ok
+201 - created
+
+400 - Bad Request
+401 - unauthorized
+403 - Forbidden
+404 - Not found
+
+500 - Internal Server Error
+

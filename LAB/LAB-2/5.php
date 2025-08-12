@@ -1,4 +1,4 @@
-<!-- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
           <meta charset="UTF-8">
@@ -24,7 +24,6 @@
 </body>
 </html>
 
-
 <?php
 
 if($_SERVER["REQUIRE_METHOD"] = "POST"){
@@ -33,11 +32,8 @@ if($_SERVER["REQUIRE_METHOD"] = "POST"){
           $select = $_POST["calculator"];
 
 
-          switch($drop){
-                    case
-          }
-
-}
+        }
 
 
-?> -->
+
+?>
